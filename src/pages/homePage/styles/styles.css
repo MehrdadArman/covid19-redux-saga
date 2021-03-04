@@ -1,0 +1,10 @@
+.root {
+  background-color: #3f51b5 !important;
+  justify-content: center;
+  flex-direction: column;
+  flex: 1;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
